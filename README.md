@@ -13,6 +13,11 @@ PyTroch のモデル最適化リポジトリです。
 ├── docs
 ├── models
 ├── notebooks
+│   ├── 8_1_profiler_jp.ipynb
+│   ├── 8_2_hyperparameter_tuning_tutorial_jp.ipynb
+│   ├── 8_3_pruning_tutorial_jp.ipynb
+│   ├── 8_4_beta_dynamic_quantization_on_an_lstm_word_language_model_jp.ipynb
+│   └── 8_5_bata_quantized_transfer_learning_for_computer_vision_tutorial_jp.ipynb
 ├── pyproject.toml
 ├── requirements.txt
 ├── setup.cfg
