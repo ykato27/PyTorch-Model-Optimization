@@ -1,6 +1,6 @@
-# python-template-repository
+# PyTroch-Model-Optimization
 
-本リポジトリはPython 環境のテンプレートリポジトリです。
+PyTroch の最適化リポジトリです。
 
 ## リポジトリ構成
 
