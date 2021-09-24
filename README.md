@@ -1,6 +1,6 @@
 # PyTroch-Model-Optimization
 
-PyTroch の最適化リポジトリです。
+PyTroch のモデル最適化リポジトリです。
 
 ## リポジトリ構成
 
@@ -33,13 +33,13 @@ PyTroch の最適化リポジトリです。
 
 ## 環境構築
 
-- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/python-template-repository）
+- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/PyTroch-Model-Optimization）
 
 ```
-cd Desktop/python-template-repository
+cd Desktop/PyTroch-Model-Optimization
 ```
 
-- Dockerによる環境構築（フォルダをマウント：Desktop/python-template-repository）
+- Dockerによる環境構築（フォルダをマウント：Desktop/PyTroch-Model-Optimization）
 
 ```
 docker-compose up --build
