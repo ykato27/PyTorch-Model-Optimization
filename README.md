@@ -1,6 +1,6 @@
-# PyTroch-Model-Optimization
+# PyTorch-Model-Optimization
 
-PyTroch のモデル最適化リポジトリです。
+PyTorch のモデル最適化リポジトリです。
 
 ## リポジトリ構成
 
